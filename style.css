@@ -1,0 +1,32 @@
+body{
+	background-color: orange;
+	color: white;
+
+}
+
+#container{
+	width: 60%;
+	background-color: #199fdb;
+	margin: 20px auto;
+	padding: 25px;
+	overflow: auto;
+
+}
+header{
+	text-align: center;
+	border-bottom: #fff dashed 1px;
+
+}
+header p{
+padding: 0;
+margin-top: 5px;
+color: #000;
+}
+
+section{
+	/*height: 400px;*/
+}
+
+footer {
+	text-align: center;
+}
